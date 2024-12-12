@@ -52,6 +52,7 @@ public class ValidacoesStringTests
     [Fact]
     public void TextoDeveTerminarComAPalavraProcurado()
     {
+
         // Arrange
         var texto = "Começo, meio e fim do texto procurado";
         var textoProcurado = "procurado";
